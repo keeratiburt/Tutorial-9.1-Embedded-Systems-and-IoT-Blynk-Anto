@@ -1,5 +1,5 @@
 # Tutorial-10-Embedded-Systems-and-IoT
-การใช้ IoT platform Blynk
+การใช้ IoT platform Blynk หรือ Anto.io
 
 
 Objectives
@@ -17,8 +17,13 @@ Software
 --------------------
 Instruction
 
-1. ต่อ DHT22 เข้ากับบอร์ด ESP32
-2. ติดตั้ง library ของ Blynk platform โดยพิมพ์คำว่า Blynk ในช่องค้นหา library แล้วเลือกติดตั้ง "Blynk by Volodymyr ShymanSkyy" เวอร์ชัน 1.2.0
-3. สมัครใช้งาน Blynk
-4. ออกแบบระบบด้วยตนเองโดยให้ทำงานได้ 1 อย่าง เช่น ควบคุม LED จาก Blynk หรือส่งค่าอุณหภูมิขึ้น Blynk
+กรณีใช้ Blynk
+1. ติดตั้ง library ของ Blynk platform โดยพิมพ์คำว่า Blynk ในช่องค้นหา library แล้วเลือกติดตั้ง "Blynk by Volodymyr ShymanSkyy" เวอร์ชัน 1.2.0
+2. สมัครใช้งาน Blynk
+3. ออกแบบระบบด้วยตนเองโดยให้ทำงานได้ 1 อย่าง เช่น ควบคุม LED จาก Blynk หรือส่งค่าอุณหภูมิขึ้น Blynk
+
+กรณีใช้ Anto.io
+1. เข้าเว็บ anto.io
+2. สมัครสมาชิก
+3. เข้าลิงค์ Document และทำตามขั้นตอน (ต้องใช้ ESP8266)
 
