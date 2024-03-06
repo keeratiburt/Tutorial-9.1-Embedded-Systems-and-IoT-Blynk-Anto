@@ -7,11 +7,10 @@
 
 **Hardware**
 1.	ESP32                 1	        
-2.	อุปกรณ์ตามต้องการ        1
+2.	LED หรือ sensor ตามต้องการ
 3.	Breadboard            1
 4.	Computer	            1
 5.	microUSB	            1
-6.	LED หรือ sensor ตามต้องการ
 
 **Software**
 1. Arduino IDE v
