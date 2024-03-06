@@ -1,4 +1,4 @@
-# Tutorial-10-Embedded-Systems-and-IoT
+# Tutorial-9-Embedded-Systems-and-IoT
 **การใช้ IoT platform Blynk หรือ Anto.io**
 
 
@@ -11,6 +11,7 @@
 3.	Breadboard            1
 4.	Computer	            1
 5.	microUSB	            1
+6.	LED หรือ sensor ตามต้องการ
 
 **Software**
 1. Arduino IDE v
