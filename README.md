@@ -17,6 +17,7 @@
 --------------------
 **Instruction**
 
+![image](https://github.com/keeratiburt/Tutorial-9-Embedded-Systems-and-IoT-IoT-Platforms/assets/125423996/f190185a-e0c9-4e73-a6c3-8dc745bbd14a) <br>
 **กรณีใช้ Blynk**
 1. ติดตั้ง library ของ Blynk platform โดยพิมพ์คำว่า Blynk ในช่องค้นหา library แล้วเลือกติดตั้ง "Blynk by Volodymyr ShymanSkyy" เวอร์ชันล่าสุด แต่หากพบ error ให้ใช้เวอร์ชัน 1.2.0
 2. สมัครใช้งาน Blynk ที่ https://blynk.io
@@ -26,9 +27,10 @@
 6. คลิกที่จุด 3 จุดด้านหลังชื่อ device และเลือก "Edit Dashboard"
 7. ในหน้านี้ สามารถออกแบบเลือก widget ได้ตามที่ต้องการให้สอดคล้องกับค่าที่ได้จาก ESP32 สามารถกำหนดค่าได้โดยกดที่รูปเฟืองในแต่ละ widget <br> ![image](https://github.com/keeratiburt/Tutorial-10-Embedded-Systems-and-IoT/assets/125423996/72ea8aec-f022-47e2-8669-34ab2d30bd77)
 8. ออกแบบระบบด้วยตนเองโดยให้ทำงานได้ 1 อย่าง เช่น ควบคุมการเปิด/ปิด LED จาก Blynk หรือส่งค่าอุณหภูมิขึ้น Blynk
-9. ส่งงานโดยแสดงผลหน้า Dashboard ผ่าน Blynk Application (iOS/Android) บนโทรศัพท์มือถือ
-<br> <br>
-**กรณีใช้ Anto.io**
+9. ส่งงานโดยแสดงผลหน้า Dashboard ผ่าน Blynk Application (iOS/Android) บนโทรศัพท์มือถือ <br> <br>
+---
+![image](https://github.com/keeratiburt/Tutorial-9-Embedded-Systems-and-IoT-IoT-Platforms/assets/125423996/3b876175-0d5a-4035-a8cb-1ebf8146c1cb) <br>
+**กรณีใช้ Anto.io** <br>
 Anto.io เป็น IoT platform ของคนไทย มีคู่มือ วิธีทำและเอกสารต่างๆเป็นภาษาไทยให้สามารถทำตามได้บนเว็บไซต์ สามารถใช้บอร์ด ESP32 และ ESP8266 ได้
 1. สมัครสมาชิกได้ที่ https://www.anto.io
 2. เข้าลิงค์ Document และทำตามขั้นตอน
